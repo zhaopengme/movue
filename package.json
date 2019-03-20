@@ -26,18 +26,18 @@
   },
   "homepage": "https://github.com/nighca/movue#readme",
   "devDependencies": {
-    "@types/jest": "^20.0.5",
-    "coveralls": "^2.13.1",
-    "jest": "^20.0.4",
-    "mobx": ">=3.2.2",
-    "rollup": "^0.45.2",
-    "ts-jest": "^20.0.7",
-    "typescript": "^2.4.2",
-    "vue": "^2.4.2",
-    "vue-class-component": "^6.0.0"
+    "@types/jest": "^24.0.11",
+    "coveralls": "^3.0.3",
+    "jest": "^24.5.0",
+    "mobx": ">=5.9.0",
+    "rollup": "^1.7.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.4000",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.1"
   },
   "peerDependencies": {
-    "mobx": ">=3.2.2",
-    "vue": "^2.4.2"
+    "mobx": ">=5.9.0",
+    "vue": "^2.6.10"
   }
 }
